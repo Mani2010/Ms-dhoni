@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
+
+Body{
+
+    text-align: center;
+    background-color: coral;
+    color: black;
+    font-family: sans-serif;
+}
